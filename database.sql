@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict k2FV0ucFabAeacZ3aUT9dZmJ3BfhVe0WVDu8JNBekfUQGW8PBOi89YPzKdPTKTv
+\restrict 2M480o8bMA5b1Jz0pI0cWoUkOfaKzkmRHzzniGA7b2HdpqVFgUqaW3WVNb2bhC8
 
 -- Dumped from database version 18.6
 -- Dumped by pg_dump version 18.6
@@ -46,5 +46,5 @@ COPY public."Teste de Tabela" ("Aron gay") FROM stdin;
 -- PostgreSQL database dump complete
 --
 
-\unrestrict k2FV0ucFabAeacZ3aUT9dZmJ3BfhVe0WVDu8JNBekfUQGW8PBOi89YPzKdPTKTv
+\unrestrict 2M480o8bMA5b1Jz0pI0cWoUkOfaKzkmRHzzniGA7b2HdpqVFgUqaW3WVNb2bhC8
 
