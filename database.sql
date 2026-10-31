@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict h7L0SOLa0xnk4WQes5JPQq8k2u8RcolKmj92wbgL3sn7MHfIlwIRXVxzbmLIbFI
+\restrict k2FV0ucFabAeacZ3aUT9dZmJ3BfhVe0WVDu8JNBekfUQGW8PBOi89YPzKdPTKTv
 
 -- Dumped from database version 18.6
 -- Dumped by pg_dump version 18.6
@@ -19,9 +19,32 @@ SET xmloption = content;
 SET client_min_messages = warning;
 SET row_security = off;
 
+SET default_tablespace = '';
+
+SET default_table_access_method = heap;
+
+--
+-- Name: Teste de Tabela; Type: TABLE; Schema: public; Owner: kstachelski
+--
+
+CREATE TABLE public."Teste de Tabela" (
+    "Aron gay" integer NOT NULL
+);
+
+
+ALTER TABLE public."Teste de Tabela" OWNER TO kstachelski;
+
+--
+-- Data for Name: Teste de Tabela; Type: TABLE DATA; Schema: public; Owner: kstachelski
+--
+
+COPY public."Teste de Tabela" ("Aron gay") FROM stdin;
+\.
+
+
 --
 -- PostgreSQL database dump complete
 --
 
-\unrestrict h7L0SOLa0xnk4WQes5JPQq8k2u8RcolKmj92wbgL3sn7MHfIlwIRXVxzbmLIbFI
+\unrestrict k2FV0ucFabAeacZ3aUT9dZmJ3BfhVe0WVDu8JNBekfUQGW8PBOi89YPzKdPTKTv
 
