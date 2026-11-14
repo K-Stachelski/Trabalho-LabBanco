@@ -4,4 +4,4 @@ Este é um trabalho acadêmico desenvolvido na disciplina de Laboratório de Ban
 - Laiana Karina da Silva Pinheiro
   RGA: 202419060862
 - Kimberlly Lauany Stachelski Canhete
-  - RGA: 202519060627
+  RGA: 202519060627
